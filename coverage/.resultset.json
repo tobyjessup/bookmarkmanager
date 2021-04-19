@@ -1,9 +1,24 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/fizzy/Projects/bookmarkmanager/spec/features/testing_infrastructure_spec.rb": {
+      "/Users/tobyjessup/Projects/Bookmark-manager/spec/features/ viewing_bookmarks_spec.rb": {
         "lines": [
+          1,
           null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/tobyjessup/Projects/Bookmark-manager/spec/features/testing_infrastructure_spec.rb": {
+        "lines": [
           1,
           1,
           1,
@@ -13,6 +28,6 @@
         ]
       }
     },
-    "timestamp": 1618844687
+    "timestamp": 1618848795
   }
 }
