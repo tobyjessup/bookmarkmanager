@@ -15,4 +15,5 @@ client->server: "GET"
 server->client: "/ 200 OK"
 client->user: "rendered bookmarkmanager/"
 
-file:///var/folders/_d/00_07mqj5wl9d4hvp1sbq6hm0000gp/T/com.apple.Safari/WebKitDropDestination-eAW4Y7RQ/Screenshot%202021-04-19%20at%2014.58.49.png
+<img> src="file:///var/folders/_d/00_07mqj5wl9d4hvp1sbq6hm0000gp/T/com.apple.Safari/WebKitDropDestination-eAW4Y7RQ/Screenshot%202021-04-19%20at%2014.58.49.png"
+</img>
